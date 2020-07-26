@@ -1,0 +1,3 @@
+include ':Battleship'
+include ':app'
+rootProject.name = "MDAS"

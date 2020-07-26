@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rocket</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_start">Spaceship</string>
+    <string name="banner_ad_unit_id"> ca-app-pub-4098906430114540/1452102193</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-4098906430114540/8975368997</string>
+</resources>
